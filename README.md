@@ -12,6 +12,7 @@
 - [Hybrid Logic Clock](https://bartoszsypytkowski.com/hybrid-logical-clocks/)
 - [Technical Report: HybridTime - Accessible Global Consistency with High
 Clock Uncertainty](http://users.ece.utexas.edu/~garg/pdslab/david/hybrid-time-tech-report-01.pdf)
+- [Graph layout](https://arxiv.org/pdf/1201.3011.pdf)
 
 ## Other
 
