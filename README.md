@@ -5,6 +5,7 @@
 - [Organizing MVU Projects](https://dev.to/kspeakman/organizing-mvu-projects-2218)
 - [Dependency Injection Using Flexible Types and Type Inference](https://gfritz.github.io/posts/2020-12-05-fsadvent-2020-dependency-injection-using-flexible-types-and-type-inference.html)
 - [ELM Architecture Guide](https://guide.elm-lang.org/architecture/)
+- [Handlers in Action](https://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf)
 
 ## Data structures
 
