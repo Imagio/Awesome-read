@@ -19,3 +19,4 @@ Clock Uncertainty](http://users.ece.utexas.edu/~garg/pdslab/david/hybrid-time-te
 
 - [Bioinformatic](https://jamessdixon.com)
 - [TYPE-SAFETY ACROSS .NET AND TYPESCRIPT](https://www.planetgeek.ch/2021/03/11/type-safety-across-net-and-typescript-why/)
+- [emacsway](https://emacsway.github.io/ru/self-learning-for-software-engineer/)
